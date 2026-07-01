@@ -1,0 +1,21 @@
+class Solution {
+    public List<Integer> findDisappearedNumbers(int[] nums) {
+        int arr[] = new int[nums.length];
+		List<Integer> list = new ArrayList<>();
+		
+		for(int i = 0 ; i < nums.length ; i++) {
+        	
+        	int x  = nums[i];
+        	arr[x-1] = 1;
+        }
+		
+		for(int i = 0 ; i < arr.length ; i++) {
+        	
+        	if(arr[i] == 0) {
+        		list.add(i+1);
+        	}
+        }
+		
+		return list;
+    }
+}
