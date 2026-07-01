@@ -51,6 +51,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0083-remove-duplicates-from-sorted-list](https://github.com/despagoetry/dsa-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -93,4 +94,5 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
