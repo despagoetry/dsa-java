@@ -29,6 +29,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -41,6 +42,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -59,4 +61,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
