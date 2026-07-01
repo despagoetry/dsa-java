@@ -29,6 +29,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -40,6 +41,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
