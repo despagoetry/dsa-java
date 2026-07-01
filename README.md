@@ -72,6 +72,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/despagoetry/dsa-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/despagoetry/dsa-java/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/despagoetry/dsa-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
