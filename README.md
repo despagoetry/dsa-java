@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -87,4 +88,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/despagoetry/dsa-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
