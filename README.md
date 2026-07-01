@@ -39,6 +39,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/despagoetry/dsa-java/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +106,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/despagoetry/dsa-java/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
