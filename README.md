@@ -9,6 +9,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/despagoetry/dsa-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/despagoetry/dsa-java/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/despagoetry/dsa-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/despagoetry/dsa-java/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -82,4 +83,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0155-min-stack](https://github.com/despagoetry/dsa-java/tree/master/0155-min-stack) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/despagoetry/dsa-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
