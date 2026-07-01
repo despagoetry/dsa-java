@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/despagoetry/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -76,6 +77,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/despagoetry/dsa-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/despagoetry/dsa-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
