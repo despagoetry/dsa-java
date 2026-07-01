@@ -8,6 +8,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/despagoetry/dsa-java/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/despagoetry/dsa-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/despagoetry/dsa-java/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -29,6 +30,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +43,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
@@ -53,6 +56,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/despagoetry/dsa-java/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/despagoetry/dsa-java/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
@@ -108,9 +112,14 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
