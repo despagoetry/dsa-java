@@ -25,6 +25,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -34,6 +35,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -95,4 +97,12 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/despagoetry/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
